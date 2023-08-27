@@ -222,4 +222,19 @@ td
 #contact
 {
   margin-top: 2500px;
+  height: 100px;
+}
+.social button img
+{
+  height: 50px;
+  width: 130px;
+}
+.button-insta
+ {
+    border: none;
+}
+button-insta:focus 
+{
+    border: none;
+    outline: none;
 }
