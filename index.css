@@ -18,8 +18,8 @@ body
   top: 0px;
   left: 0px;
   width: 100%;
-/*  background-image: linear-gradient(to right ,orange,red,orange);*/
-background-color: #61fffa;
+  background-image: linear-gradient(to right ,#61fffa,#69c9c3,#61fffa);
+/*  background-color: #61fffa;*/
 
 
 }
